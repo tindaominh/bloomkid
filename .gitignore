@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+# Expo
+.expo/
+apps/mobile/.expo/
+
+# EAS
+eas.json
+
+# AI Pipeline outputs
+packages/ai-pipeline/output/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
