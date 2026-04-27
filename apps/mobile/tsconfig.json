@@ -3,6 +3,7 @@
   "compilerOptions": {
     "strict": true,
     "baseUrl": ".",
+    "types": ["jest", "node"],
     "paths": {
       "@/*": ["src/*"],
       "@bloomkid/shared": ["../../packages/shared/src"]
