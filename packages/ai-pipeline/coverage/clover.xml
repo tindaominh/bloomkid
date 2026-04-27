@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1777310231359" clover="3.2.0">
+  <project timestamp="1777310231360" name="All files">
+    <metrics statements="66" coveredstatements="66" conditionals="12" coveredconditionals="10" methods="4" coveredmethods="4" elements="82" coveredelements="80" complexity="0" loc="66" ncloc="66" packages="1" files="4" classes="4"/>
+    <file name="generate-audio.ts" path="/Users/tindm/mtins/bloomkid/packages/ai-pipeline/src/generate-audio.ts">
+      <metrics statements="12" coveredstatements="12" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="17" count="5" type="cond" truecount="1" falsecount="0"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="21" count="4" type="stmt"/>
+      <line num="22" count="4" type="stmt"/>
+      <line num="23" count="4" type="stmt"/>
+      <line num="24" count="4" type="stmt"/>
+      <line num="25" count="4" type="stmt"/>
+      <line num="26" count="4" type="stmt"/>
+    </file>
+    <file name="generate-image.ts" path="/Users/tindm/mtins/bloomkid/packages/ai-pipeline/src/generate-image.ts">
+      <metrics statements="15" coveredstatements="15" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="9" count="6" type="stmt"/>
+      <line num="23" count="6" type="cond" truecount="1" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="27" count="5" type="stmt"/>
+      <line num="28" count="5" type="stmt"/>
+      <line num="30" count="5" type="stmt"/>
+      <line num="31" count="5" type="stmt"/>
+      <line num="33" count="5" type="stmt"/>
+      <line num="34" count="5" type="stmt"/>
+      <line num="35" count="5" type="stmt"/>
+      <line num="36" count="5" type="stmt"/>
+      <line num="37" count="5" type="stmt"/>
+    </file>
+    <file name="generate-lesson.ts" path="/Users/tindm/mtins/bloomkid/packages/ai-pipeline/src/generate-lesson.ts">
+      <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="5" type="stmt"/>
+      <line num="18" count="5" type="stmt"/>
+      <line num="20" count="5" type="stmt"/>
+      <line num="24" count="5" type="stmt"/>
+      <line num="25" count="5" type="stmt"/>
+      <line num="31" count="5" type="stmt"/>
+      <line num="32" count="5" type="stmt"/>
+      <line num="33" count="5" type="cond" truecount="0" falsecount="1"/>
+      <line num="35" count="5" type="stmt"/>
+      <line num="37" count="5" type="stmt"/>
+      <line num="38" count="5" type="stmt"/>
+      <line num="39" count="5" type="stmt"/>
+      <line num="44" count="5" type="stmt"/>
+    </file>
+    <file name="upload-assets.ts" path="/Users/tindm/mtins/bloomkid/packages/ai-pipeline/src/upload-assets.ts">
+      <metrics statements="22" coveredstatements="22" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="25" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="4" type="stmt"/>
+      <line num="29" count="4" type="stmt"/>
+      <line num="30" count="4" type="stmt"/>
+      <line num="32" count="4" type="stmt"/>
+      <line num="34" count="4" type="stmt"/>
+      <line num="35" count="4" type="stmt"/>
+      <line num="36" count="4" type="stmt"/>
+      <line num="38" count="4" type="stmt"/>
+      <line num="43" count="4" type="stmt"/>
+      <line num="48" count="4" type="stmt"/>
+      <line num="49" count="4" type="stmt"/>
+      <line num="50" count="4" type="stmt"/>
+      <line num="52" count="4" type="stmt"/>
+      <line num="59" count="4" type="stmt"/>
+      <line num="62" count="4" type="stmt"/>
+      <line num="63" count="4" type="stmt"/>
+    </file>
+  </project>
+</coverage>
