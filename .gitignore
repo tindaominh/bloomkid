@@ -20,3 +20,6 @@ packages/ai-pipeline/output/
 # IDE
 .vscode/
 .idea/
+
+# Coverage reports
+coverage/
