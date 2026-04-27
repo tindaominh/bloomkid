@@ -10,8 +10,10 @@
     "@anthropic-ai/sdk": "^0.39.0",
     "@aws-sdk/client-s3": "^3.0.0",
     "@bloomkid/shared": "file:../shared",
+    "@types/pg": "^8.20.0",
     "dotenv": "^16.0.0",
-    "openai": "^4.0.0"
+    "openai": "^4.0.0",
+    "pg": "^8.20.0"
   },
   "devDependencies": {
     "@types/jest": "^29.5.0",
@@ -24,7 +26,9 @@
   "jest": {
     "preset": "ts-jest",
     "testEnvironment": "node",
-    "testMatch": ["**/*.test.ts"],
+    "testMatch": [
+      "**/*.test.ts"
+    ],
     "moduleNameMapper": {
       "^@bloomkid/shared$": "<rootDir>/../shared/src/index.ts"
     }
