@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "ES2021",
+    "strict": true,
+    "outDir": "./dist",
+    "baseUrl": ".",
+    "incremental": true,
+    "types": ["jest", "node"],
+    "paths": {
+      "@bloomkid/shared": ["../../packages/shared/src"]
+    }
+  }
+}

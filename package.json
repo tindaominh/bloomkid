@@ -1,0 +1,19 @@
+{
+  "name": "bloomkid",
+  "private": true,
+  "scripts": {
+    "mobile": "pnpm --filter mobile dev",
+    "backend": "pnpm --filter backend dev",
+    "generate": "pnpm --filter ai-pipeline generate",
+    "lint": "pnpm -r lint",
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  },
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  }
+}

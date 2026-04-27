@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm *)",
+      "Bash(npx expo *)",
+      "Bash(git *)",
+      "Bash(find *)",
+      "Bash(ls *)"
+    ]
+  }
+}
