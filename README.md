@@ -1,2 +1,2 @@
 # bloomkid
-Ứng dụng tiếng anh cho bé - phát triển trí tuệ tự nhiên
+A multi-sensory English learning application designed for toddlers and preschoolers (Ages 2–5). The app focuses on immersive learning through vivid visuals, native-level audio, and simple interactive gameplay.
